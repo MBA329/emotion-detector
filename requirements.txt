@@ -1,0 +1,10 @@
+flask==3.0.0
+# Add other dependencies as needed
+# For emotion detection, you might also want:
+# numpy
+# pandas
+# scikit-learn
+# tensorflow
+# opencv-python
+# matplotlib
+# seaborn
